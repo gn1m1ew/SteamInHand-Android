@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">SteamInHand</string>
+
+    <string name="newPlayerText">Enter Steam ID</string>
+    <string name="remove">Delete</string>
+    <string name="playerName">UserName</string>
+    <string name="new_player">Add A New Player</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="profile">Profile</string>
+    <string name="stat">Stats</string>
+    <string name="chart">Charts</string>
+    <string name="id">Steam Id:</string>
+    <string name="link">Steam Personal Page:</string>
+    <string name="edit">Edit</string>
+
+    <string name="profile_state">Current Status:</string>
+    <string name="visibility_state">Privacy:</string>
+
+    <string name="friendlist">Friends</string>
+
+    <string name="profilepic">ProfilePic</string>
+    <string name="inventory">Inventory</string>
+    <string name="itemName">Inventory Item Name</string>
+    <string name="itemAmount">Amount:</string>
+    <string name="friendpic">FriendPic</string>
+    <string name="deletebutton">DeleteButton</string>
+    <string name="load_inventory">Press to Load Inventory</string>
+
+    <string name="private_inventory">PRIVATE INVENTORY</string>
+    <string name="private_friends">PRIVATE FRIENDS</string>
+
+
+    <string name="itempic">ItemPic</string>
+    <string name="steamid_url">example: 76561198376331431</string>
+    <string name="playerpic">playerpic</string>
+
+    <string name="add_new_player">Add New Player</string>
+    <string name="add">Add</string>
+    <string name="lowest_price">Lowest Price:</string>
+    <string name="median_price">Median Price:</string>
+    <string name="number_of_units_on_market">Number Of Sold On Market(24 hrs):</string>
+    <string name="not_found">NOT FOUND</string>
+    <string name="sticker">sticker</string>
+    <string name="floatValue">Float:</string>
+    <string name="paint_seed">Paint Seed:</string>
+    <string name="origin">Origin Of The Item:</string>
+    <string name="float_range">Possible Float Range:</string>
+    <string name="market">MARKET:</string>
+    <string name="item">ITEM:</string>
+    <string name="level">Profile Level:</string>
+
+    <string name="privateTag">Private</string>
+    <string name="playtime">Play Time:</string>
+    <string name="gameName">Game name</string>
+    <string name="recently_played_games">Recently Played Games</string>
+    <string name="foreverhours">%s hrs on record</string>
+    <string name="twoweekshours">%s hrs in last 2 weeks</string>
+
+    <string name="amountx">Amount: %s</string>
+    <string name="playingx">Playing: %s</string>
+    <string name="floatRange">%s - %s</string>
+    <string name="sort">Sort:</string>
+    <string name="search">Search</string>
+    <string-array name="gamesSortArray">
+        <item>Name Asc</item>
+        <item>Name Desc</item>
+        <item>Total Play Time Asc</item>
+        <item>Total Play Time Desc</item>
+    </string-array>
+    <string-array name="friendsSortArray">
+        <item>Name Asc</item>
+        <item>Name Desc</item>
+    </string-array>
+</resources>
